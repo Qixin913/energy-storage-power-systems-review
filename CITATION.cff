@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite the published article when using this review."
+title: "Reading companion: Energy storage systems in power systems"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Qixin
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Liu
+      given-names: Qixin
+  title: "Energy storage systems in power systems: A review of technologies, modeling, applications, and market participation"
+  journal: Future Batteries
+  volume: "12"
+  start: "100216"
+  year: 2026
+  doi: 10.1016/j.fub.2026.100216
+  url: "https://doi.org/10.1016/j.fub.2026.100216"
